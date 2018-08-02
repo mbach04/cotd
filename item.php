@@ -92,6 +92,7 @@ $help = $help."<p style='color:silver;font-size:80%;font-style:italic'> Enjoy, S
 <!DOCTYPE html>
 <html>
 <head>
+	<meta http-equiv="refresh" content="2">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>COTD</title>
